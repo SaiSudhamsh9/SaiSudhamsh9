@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Sai%20Sudhamsh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20AI%20%26%20ML%20Enthusiast%20|%20Full%20Stack%20Developer&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=250&section=header&text=Sai%20Sudhamsh&fontSize=55&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sai Sudhamsh</h1>
@@ -9,7 +9,7 @@ Java Developer • AI & Machine Learning Enthusiast • Full Stack Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1200&color=00D9FF&center=true&vCenter=true&width=850&lines=Java+Developer;Building+Scalable+Applications;Spring+Boot+Learner;Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Sai+Sudhamsh;Java+Developer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -90,20 +90,13 @@ Become a Software Engineer building scalable AI-powered applications that solve 
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaiSudhamsh9&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=SaiSudhamsh9&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaiSudhamsh9&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=SaiSudhamsh9&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSudhamsh9&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SaiSudhamsh9&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 # 📈 Contribution Graph
 
