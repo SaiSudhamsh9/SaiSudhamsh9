@@ -13,12 +13,10 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-2f4f4d39-b9b5-4e8f-9f3e-2d9a62d8e0a2.gif" width="600">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=Sai%20Sudhamsh&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Java%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Full%20Stack%20Developer"/>
 </p>
 
----
-
-# 🚀 About Me
+## 🚀 About Me
 
 🎓 3rd Year B.Tech Computer Science Student
 
