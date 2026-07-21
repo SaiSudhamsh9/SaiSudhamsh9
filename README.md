@@ -156,7 +156,7 @@ Docker                   █████████░░░░░░░░░�
 
 <p align="center">
 
-<a href="www.linkedin.com/in/sai-sudhamsh-yellamgari">
+<a href="https://www.linkedin.com/in/sai-sudhamsh-yellamgari/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
