@@ -25,4 +25,11 @@ https://linkedin.com/in/yellamgarisaisudhamsh
 
 Portfolio:
 https://yourwebsite.com
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+
+## LANG
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSudhamsh9&layout=compact&theme=tokyonight"/>
+
+<img src="https://komarev.com/ghpvc/?username=SaiSudhamsh9&label=Profile+Views&color=0e75b6"/>
