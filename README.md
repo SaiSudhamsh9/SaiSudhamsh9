@@ -25,3 +25,4 @@ https://linkedin.com/in/yellamgarisaisudhamsh
 
 Portfolio:
 https://yourwebsite.com
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
