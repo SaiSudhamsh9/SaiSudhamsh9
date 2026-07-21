@@ -1,16 +1,28 @@
 ## Hi there 👋
+# Hi there 👋
 
-<!--
-**SaiSudhamsh9/SaiSudhamsh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 3rd Year Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Java | Python | SQL | HTML | CSS | JavaScript
+
+🌱 Currently Learning
+- Data Structures & Algorithms
+- Full Stack Development
+- AI & Machine Learning
+
+🏆 Achievements
+- Google Gen AI Exchange
+- AICTE Virtual Internship
+- Hackathon Participant
+
+📫 Reach Me
+
+Email: yourmail@gmail.com
+
+LinkedIn:
+https://linkedin.com/in/yourprofile
+
+Portfolio:
+https://yourwebsite.com
