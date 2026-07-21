@@ -156,11 +156,11 @@ Docker                   █████████░░░░░░░░░�
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/sai-sudhamsh-yellamgari">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:saisudhamsh2006@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
