@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-2f4f4d39-b9b5-4e8f-9f3e-2d9a62d8e0a2.gif" width="600">
 </p>
 
 ---
