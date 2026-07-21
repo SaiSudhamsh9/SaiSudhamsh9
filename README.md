@@ -19,10 +19,10 @@
 
 📫 Reach Me
 
-Email: yourmail@gmail.com
+Email: saisudhamsh2006@gmail.com
 
 LinkedIn:
-https://linkedin.com/in/yourprofile
+https://linkedin.com/in/yellamgarisaisudhamsh
 
 Portfolio:
 https://yourwebsite.com
