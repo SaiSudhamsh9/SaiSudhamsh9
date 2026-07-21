@@ -87,17 +87,20 @@ Become a Software Engineer building scalable AI-powered applications that solve 
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaiSudhamsh9&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=SaiSudhamsh9&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=SaiSudhamsh9&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SaiSudhamsh9&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiSudhamsh9&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaiSudhamsh9&theme=tokyonight"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaiSudhamsh9&theme=tokyonight&utcOffset=5.5"/>
+</p>
 # 📈 Contribution Graph
 
 <p align="center">
@@ -163,12 +166,19 @@ Become a Software Engineer building scalable AI-powered applications that solve 
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/SaiSudhamsh9/SaiSudhamsh9/output/github-contribution-grid-snake-dark.svg"/>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SaiSudhamsh9/SaiSudhamsh9/output/github-contribution-grid-snake-dark.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/SaiSudhamsh9/SaiSudhamsh9/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
