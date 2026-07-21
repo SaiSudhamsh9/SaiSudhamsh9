@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm Sai Sudhamsh</h1>
 
 <h3 align="center">
-Java Developer • AI & Machine Learning Enthusiast • Full Stack Developer
+ • AI & Machine Learning Enthusiast • Full Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Sai+Sudhamsh;Java+Developer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Sai+Sudhamsh;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
