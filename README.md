@@ -1,23 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=250&section=header&text=Sai%20Sudhamsh&fontSize=55&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Sai%20Sudhamsh&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sai Sudhamsh</h1>
 
 <h3 align="center">
- • AI & Machine Learning Enthusiast • Full Stack Developer
+AI & Machine Learning Enthusiast • Full Stack Developer • Java Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Sai+Sudhamsh;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Java+Backend+Developer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SaiSudhamsh9&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SaiSudhamsh9&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 
 <img src="https://img.shields.io/github/followers/SaiSudhamsh9?style=for-the-badge&logo=github"/>
 
 <img src="https://img.shields.io/github/stars/SaiSudhamsh9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/last-commit/SaiSudhamsh9/SaiSudhamsh9?style=for-the-badge"/>
 </p>
 
 ---
@@ -26,50 +28,96 @@
 
 🎓 Third-Year B.Tech Computer Science Student
 
-💻 Passionate about developing scalable software and intelligent applications.
+💻 Passionate about building scalable software, intelligent applications, and solving real-world problems through technology.
 
-🚀 Interested in
-
-- Java Development
-- Spring Boot
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- Open Source
-
-🌱 Currently Learning
-
-- Spring Boot
-- Data Structures & Algorithms
-- Docker
-- React
-- System Design
-
-🎯 Goal
-
-Become a Software Engineer building scalable AI-powered applications that solve real-world problems.
+🚀 I enjoy learning new technologies and building projects that combine software engineering with Artificial Intelligence.
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Current Focus
 
-✔ Java Backend Development
-
-✔ REST API Development
-
-✔ AI & Machine Learning Projects
-
-✔ Data Structures & Algorithms
-
-✔ Full Stack Development
+- 🌱 Learning Spring Boot & REST APIs
+- 💻 Solving Data Structures & Algorithms
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- ⚡ Building Full Stack Applications
+- 🐳 Learning Docker
+- ☁️ Exploring Cloud Technologies
 
 ---
 
-# ⚡ Tech Stack
+# 🛠 Tech Stack
+
+## Programming Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,c,cpp,mysql,postgres,html,css,js,react,firebase,docker,git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+</p>
+
+---
+
+## Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+</p>
+
+---
+
+## Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+</p>
+
+---
+
+## Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
 </p>
 
@@ -81,42 +129,35 @@ Become a Software Engineer building scalable AI-powered applications that solve 
 
 🏅 AICTE Internship Participant
 
-🏅 Hackathon Enthusiast
+🏅 AI-Based Application Developer
 
-🏅 Building AI-Based Applications
+🏅 Multiple Hackathon Participant
+
+🏅 Passionate Open Source Learner
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaiSudhamsh9&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaiSudhamsh9&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSudhamsh9&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiSudhamsh9&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=SaiSudhamsh9&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaiSudhamsh9&theme=tokyonight"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaiSudhamsh9&theme=tokyonight&utcOffset=5.5"/>
-</p>
+---
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiSudhamsh9&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 📅 GitHub Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiSudhamsh9&theme=tokyonight"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiSudhamsh9&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -124,85 +165,210 @@ Become a Software Engineer building scalable AI-powered applications that solve 
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SaiSudhamsh9&theme=tokyonight&row=1&column=7&no-frame=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=SaiSudhamsh9&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
 
-# 🌱 Currently Exploring
+# 🚀 Featured Projects
 
-- Spring Boot Security
-- Docker
-- React
-- Artificial Intelligence
-- Machine Learning
-- System Design
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| 🤖 AI-Based Applications | Intelligent applications using Machine Learning and AI concepts. | Python, AI, ML |
+| 🌐 Full Stack Web Apps | Responsive web applications with frontend and backend integration. | HTML, CSS, JavaScript, React |
+| ☕ Java Backend Projects | REST APIs and backend systems built with Java & Spring Boot. | Java, Spring Boot |
+| 📊 Data Analysis Projects | Data visualization and predictive analytics applications. | Python, Pandas |
+| 💡 Mini Projects | Academic and personal development projects. | Java, Web Development |
 
 ---
 
+# 📚 Currently Learning
+
+- ☕ Spring Boot & Spring Security
+- 🧠 Data Structures & Algorithms
+- 🐳 Docker & Containerization
+- ⚛ React.js
+- 🤖 Machine Learning
+- 🏗 System Design
+- ☁ Cloud Fundamentals
+
+---
+
+# 💻 Development Workflow
+
+```text
+💡 Idea
+   │
+   ▼
+📖 Research
+   │
+   ▼
+🎨 Design
+   │
+   ▼
+💻 Development
+   │
+   ▼
+🧪 Testing
+   │
+   ▼
+🚀 Deployment
+```
+
+---
+
+# 💻 Coding Activity
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSudhamsh9&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaiSudhamsh9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+</p>
+
+# 📌 Developer Principles
+
+✔ Write clean and maintainable code
+
+✔ Keep learning continuously
+
+✔ Build real-world solutions
+
+✔ Focus on scalability
+
+✔ Collaborate and contribute to open source
+
+✔ Never stop improving
+
+---
+
+# 📅 2026 Goals
+
+- ✅ Master Spring Boot
+- ✅ Improve DSA Problem Solving
+- ✅ Build AI-Powered Projects
+- ✅ Contribute to Open Source
+- ✅ Secure a Software Development Internship
+- ✅ Strengthen Full Stack Development Skills
+
+---
 # 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/SaiSudhamsh9">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
+<a href="https://github.com/SaiSudhamsh9" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=leetcode" width="48"/>
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+<img src="https://skillicons.dev/icons?i=leetcode" width="55"/>
 </a>
 
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 📫 Reach Me
+
+📧 **Email:** saisudhamsh2006@gmail.com
+
+💼 **LinkedIn:** YOUR_LINKEDIN_URL
+
+🐙 **GitHub:** https://github.com/SaiSudhamsh9
+
+💻 **LeetCode:** https://leetcode.com/YOUR_LEETCODE_USERNAME/
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/SaiSudhamsh9/SaiSudhamsh9/output/github-contribution-grid-snake-dark.svg"
-    />
-    <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/SaiSudhamsh9/SaiSudhamsh9/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/SaiSudhamsh9/SaiSudhamsh9/output/github-contribution-grid-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/SaiSudhamsh9/SaiSudhamsh9/output/github-contribution-grid-snake.svg"/>
+
+<img alt="Snake Animation"
+src="https://raw.githubusercontent.com/SaiSudhamsh9/SaiSudhamsh9/output/github-contribution-grid-snake.svg"/>
+
+</picture>
 </p>
 
 ---
 
-# 💭 Quote
-
-> *"Great software is built through continuous learning, experimentation, and improvement."*
-
----
+# 💬 Favorite Quote
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaiSudhamsh9&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaiSudhamsh9&theme=tokyonight"/>
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
 
 </p>
 
 ---
 
+# ⚡ Fun Fact
+
+```text
+while(!success)
+{
+    Learn();
+    Build();
+    Improve();
+    Repeat();
+}
+```
+
+---
+
+# ❤️ Support My Work
+
 <p align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+⭐ Star my repositories if you find them useful.
 
-### 🚀 Thanks for visiting my profile.
+🍴 Fork projects that inspire you.
+
+🤝 Let's collaborate on exciting projects.
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SaiSudhamsh9&label=Visitors&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+<h2 align="center">
+✨ Thanks for Visiting My GitHub Profile ✨
+</h2>
+
+<h3 align="center">
+
+🚀 Keep Learning • Keep Building • Keep Growing 🚀
+
+</h3>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/>
 
 </p>
